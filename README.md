@@ -1,0 +1,2 @@
+# alicli
+Ali Cloud CLI
